@@ -42,7 +42,7 @@ Time spent: `<Number of hours spent>`
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. How to provide better user feedback after archiving or deleting a message (a la Spotify)
-2. The pain of leaving the 'Enable User Interactions' checkbox unchecked. Took me several hours to 'debug' my UIPanGestureRecognizer. Ouch.
+2. How best to position views within views within views in INterface builder
 
 ### Video Walkthrough 
 
@@ -54,6 +54,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I left the 'Enable User Interactions' checkbox unchecked. Took me several hours to 'debug' my UIPanGestureRecognizer. Ouch.
 
 * Any libraries or borrowed content.
